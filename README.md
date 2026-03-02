@@ -90,9 +90,9 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <h3 aling="center">Life is like riding a bicycle. To keep your balance, you must keep moving.</h3>
+    <h3 align="center">Life is like riding a bicycle. To keep your balance, you must keep moving.</h3>
 
- <p align="center"> -*Albert Einstein*- </p>
+ <p align="center"> -Albert Einstein- </p>
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
