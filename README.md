@@ -51,7 +51,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/PasinduChamika531">
-          <img align="center" src="https://streak-stats.demolab.com?user=PasinduChamika531&theme=nightowl" alt="Streak Stats" />
+          
         </a>
       </p>
     </td>
@@ -61,7 +61,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/PasinduChamika531/floral-fete">
-         <h2>Floral Fete</h2>
+         <h2 align="center">Floral Fete</h2>
         </a>
       </p>
     </td>
@@ -86,7 +86,7 @@
 ---
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center">🍃 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🍃</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
