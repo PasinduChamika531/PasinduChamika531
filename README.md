@@ -61,7 +61,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/PasinduChamika531/floral-fete">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=PasinduChamika531&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+         <h2>Floral Fete</h2>
         </a>
       </p>
     </td>
@@ -92,7 +92,7 @@
 <p align="center">
     Life is like riding a bicycle. To keep your balance, you must keep moving.
 
--*Albert Einstein*
+    -*Albert Einstein*
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
