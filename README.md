@@ -8,7 +8,7 @@
 <!--Header Name-->
 ɪ'ᴍ Pasindu Chamika! 
 *Digital Craftsman (Engineer / Programmer)*
-
+<br/>
 
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Software Engineer and Problem Solving Enthusiast with a huge love for Java, SQL, React, Android, REST API and Project management. </p>
