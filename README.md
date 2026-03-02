@@ -51,7 +51,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/PasinduChamika531">
-          
+          <img align="center" src="https://streak-stats.demolab.com?user=PasinduChamika531&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
