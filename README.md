@@ -92,7 +92,7 @@
 <p align="center">
     Life is like riding a bicycle. To keep your balance, you must keep moving.
 
-    -*Albert Einstein*
+  -*Albert Einstein*
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
