@@ -2,7 +2,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
+  <img align="right" width="30%" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
 </div>
 
 <!--Header Name-->
@@ -11,10 +11,12 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a Full Stack Software Engineer and Problem Solving Enthusiast with a huge love for Java, SQL, React, Android, REST API and Project management. </p>
 
 - ✨ Undergraduate Software Engineer (>w<)
 - 🌱 New Experiences everyday.
+- 🎧 Music Lover
+- 🤸‍♂️ Parkour Athlete
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -26,7 +28,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,arduino,bootstrap,git,vscode,postman,py,php,idea,mysql,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=java,js,html,css,react,arduino,bootstrap,git,vscode,postman,py,php,idea,mysql,nodejs,linux&perline=10"  />
 </p>
 <br />
 
@@ -66,8 +68,8 @@
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        <a href="https://github.com/PasinduChamika531">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=PasinduChamika531&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -78,7 +80,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PasinduChamika531&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 ---
