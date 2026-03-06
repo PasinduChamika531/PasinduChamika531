@@ -42,11 +42,7 @@
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/PasinduChamika531">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=PasinduChamika531&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
+      <p> <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=PasinduChamika531&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="PasinduChamika531" />
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
