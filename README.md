@@ -6,9 +6,7 @@
 </div>
 
 <!--Header Name-->
-<p align="left">
-<strong style="font-size:36px;">ɪ'ᴍ Pasindu Chamika!</strong>
-</p>
+<h1 align="left">Hi 👋, I'm Pasindu Chamika</h1>
 
 *Digital Craftsman (Engineer / Programmer)*
 <br/> 
